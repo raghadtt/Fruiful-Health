@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dynamic Gym",
+    "address": "Rafedia",
+    "type": "Gym",
+    "latitude": 32.222915,
+    "longitude": 35.234567,
+    "image": "https://scontent.fjrs1-3.fna.fbcdn.net/v/t31.18172-8/25626179_176840376241868_6295871746046845364_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=e3f864&_nc_ohc=hXmCKNu9y9QAX9J5yix&_nc_ht=scontent.fjrs1-3.fna&oh=1168c825e59bb99408e4fb9b23bfab46&oe=60A12F06"
+  },
+  {
+    "name": "Top Fitness",
+    "address": "Nablus mall",
+    "type": "Gym",
+    "latitude": 32.204206,
+    "longitude": 35.277180,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMVwL7qXlntjmeUcNXSMpE1gI0pOuDYFZVqbk_l=w408-h306-k-no"
+  },
+  {
+    "name": "Sport Village",
+    "address": "Yaffa Street",
+    "type": "Gym",
+    "latitude": 32.230339,
+    "longitude": 35.241940,
+    "image": "https://scontent.fjrs1-3.fna.fbcdn.net/v/t1.6435-9/105028531_1165905213775689_6675604525611624267_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ihZlvD0TXUcAX8qDWWD&_nc_ht=scontent.fjrs1-3.fna&oh=9e18194aa62ed5141abb2c3f369c23e4&oe=60A16295"
+  },
+  {
+    "name": "Sport Land",
+    "address": "Haifa Street",
+    "type": "Gym",
+    "latitude": 32.225637,
+    "longitude": 35.256879,
+    "image": "https://scontent.fjrs1-3.fna.fbcdn.net/v/t31.18172-8/21743896_1503979539688722_5664860509191771124_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=J6ODY0V7cfkAX8LJKRi&_nc_ht=scontent.fjrs1-3.fna&oh=f38034aa208187f81db860b3e4a328f6&oe=60A3FE54"
+  },
+  {
+    "name": "Safi Fit Gym",
+    "address": "AlRazi Street",
+    "type": "Gym",
+    "latitude": 32.221606,
+    "longitude": 35.250014,
+    "image": "https://scontent.fjrs1-2.fna.fbcdn.net/v/t1.6435-9/78315112_110820057060782_6518614161700683776_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rlSisXzTtpYAX8ofona&_nc_ht=scontent.fjrs1-2.fna&oh=ccd537727334a648d8d23dfbe3231c0d&oe=60A417CB"
+  },
+  {
+    "name": "Sport Land Gym",
+    "address": "Jamal Abdel Naser Street",
+    "type": "Gym",
+    "latitude": 32.228640,
+    "longitude": 35.257357,
+    "image": ""
+  },
+  {
+    "name": "So Fitness Club",
+    "address": "Rafedya Street",
+    "type": "Gym",
+    "latitude": 32.229497,
+    "longitude": 35.199095,
+    "image": "https://i.pinimg.com/originals/ec/20/e8/ec20e804b13250ece9250004266efdca.jpg"
+  },
+  {
+    "name": "Sana Vita club",
+    "address": "Rafedya Street",
+    "type": "Gym",
+    "latitude": 32.222937,
+    "longitude": 35.234801,
+    "image": "https://st7038.ispot.cc/images/20196/11062345_941228219274002_7611100435755181670_n.jpg"
+  },
+  {
+    "name": "Power Gym",
+    "address": "University Street",
+    "type": "Gym",
+    "latitude": 32.219981,
+    "longitude": 35.242404,
+    "image": "https://scontent.fjrs1-3.fna.fbcdn.net/v/t1.6435-9/62433539_2415718681823923_6453007458217492480_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ot133MEgl-MAX_5-4-7&_nc_ht=scontent.fjrs1-3.fna&oh=f818724e2066191c9a9432a880a6b8d3&oe=60A14128"
+  },
+  {
+    "name": "Hayat Nablus",
+    "address": "Tunis Street",
+    "type": "Gym",
+    "latitude": 32.228645,
+    "longitude":  35.236642,
+    "image": "https://st7038.ispot.cc/images/20192/img21.jpg"
+  },
+  {
+    "name": "Regime Diet Center",
+    "address": "Rafedya Street",
+    "type": "Nutritionist",
+    "latitude": 32.224206,
+    "longitude": 35.244614,
+    "image": "https://graph.facebook.com/1070722043000629/picture?type=large"
+  },
+  {
+    "name": "Dietation Razan Hijjawi",
+    "address": "Rafedya Street",
+    "type": "Nutritionist",
+    "latitude": 32.224634,
+    "longitude": 35.245178,
+    "image": "https://scontent.fjrs1-3.fna.fbcdn.net/v/t1.6435-9/52840164_1389969967812171_5093389767727382528_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=RPvMlPNCLEAAX-k_zbU&_nc_ht=scontent.fjrs1-3.fna&oh=634a8c0c251ea00638a8708850de0b6a&oe=60A218D2"
+  },
+  {
+    "name": "Nutri Health Center",
+    "address": "Nablus Center",
+    "type": "Nutritionist",
+    "latitude": 32.221785,
+    "longitude": 35.261102,
+    "image": "https://yellowpages.com.ps/images/companies/logos/15148130241065840826-200x200.jpg?token=eb12589b2019d7831baa7993369875eb"
+  },
+
+
+
+
+]
